@@ -1,0 +1,1 @@
+A dump folder of various Rosalind problems from a now broken laptop. To be reviewed. 
